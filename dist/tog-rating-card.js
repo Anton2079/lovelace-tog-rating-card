@@ -506,7 +506,7 @@ registerCard("tog-rating-card", TogRatingCard, {
   name: "TOG Rating Card",
   description: "Combined current and forecast TOG guidance.",
   preview: true,
-  documentationURL: "https://github.com/anthonywales/tog-rating"
+  documentationURL: "https://github.com/Anton2079/tog-rating"
 });
 
 registerCard("tog-rating-current-card", TogRatingCurrentCard, {
@@ -514,7 +514,7 @@ registerCard("tog-rating-current-card", TogRatingCurrentCard, {
   name: "TOG Current Card",
   description: "Compact current TOG recommendation card.",
   preview: true,
-  documentationURL: "https://github.com/anthonywales/tog-rating"
+  documentationURL: "https://github.com/Anton2079/tog-rating"
 });
 
 registerCard("tog-rating-forecast-card", TogRatingForecastCard, {
@@ -522,5 +522,5 @@ registerCard("tog-rating-forecast-card", TogRatingForecastCard, {
   name: "TOG Forecast Card",
   description: "Day and night forecast TOG guidance card.",
   preview: true,
-  documentationURL: "https://github.com/anthonywales/tog-rating"
+  documentationURL: "https://github.com/Anton2079/tog-rating"
 });
