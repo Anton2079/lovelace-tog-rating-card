@@ -10,6 +10,8 @@ TOG Rating Card is a Home Assistant Lovelace dashboard card for displaying curre
 
 ![TOG Rating current and forecast cards](assets/tog-rating-screenshot.png)
 
+![TOG Rating entities and device view](assets/tog-rating-screenshot-2.png)
+
 ## HACS repository type
 
 Add this repository to HACS as a `Dashboard` repository.
